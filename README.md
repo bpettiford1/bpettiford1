@@ -9,7 +9,7 @@
 ---
 
 ## Contact Information
-📍 Location: [Dallas, Texas]  
+📍 Location: Dallas, Texas  
 📧 Email: [bpettiford97@gmail.com]  
 🔗 LinkedIn: [Brianna Pettiford](https://www.linkedin.com/in/brianna-pettiford-955b281a2/)  
 💻 GitHub: [bpettiford1](https://github.com/bpettiford1)
@@ -28,22 +28,22 @@
 ## Experience
 
 ### Recreation Manager  
-Hilton | [May 2024] - Present  
+Hilton | May 2024 - Present  
 - Directed the operation of recreational programs and amenities, ensuring a high level of guest satisfaction.
 - Managed compliance with safety protocols and developed new initiatives to enhance guest engagement.
 
 ### Site Manager/Camp and Marketing Director 
-FieldhouseUSA | [October 2022] - [Current]  
+FieldhouseUSA | October 2022 - August 2024 
 - Oversaw all game-day operations, including check-ins, scheduling, and conflict resolution.
 - Coordinated with coaches and referees to ensure smooth tournament execution.
 
 ### Event Manager  
-Stadiumlinks | [June 2022] - [August 2024]  
+Stadiumlinks | June 2022 - August 2024  
 - Organized and executed sports-themed events, attracting diverse audiences and generating high attendance.
 - Collaborated with corporate stakeholders to deliver exceptional event experiences.
 
 ### Site Coordinator  
-FieldhouseUSA | [March 2021] - [October 2022]  
+FieldhouseUSA | March 2021 - October 2022  
 - Assisted in planning and running sports programs, providing administrative and operational support.
 - Maintained compliance with state regulations and facilitated yearly audits.
 
@@ -51,16 +51,16 @@ FieldhouseUSA | [March 2021] - [October 2022]
 
 ## Education
 **Software Engineering Program**  
-University of Texas at Arlignton | Ongoing
+University of Texas at Arlignton, Arlington TX | Ongoing
 
 **Bachelor’s Degree in Health Science**  
-Tennessee State Univeristy, [Nashville, TN] | [2019]
+Tennessee State Univeristy, Nashville, TN | 2019
 
 **Masters Degree in Science**  
-University of North Texas, [Denton, TX] | [2022]
+University of North Texas, Denton, TX | 2022
 
 **Masters Degree in Business Administration**  
-Texas Woman's University, [Denton, TX] | [2024]
+Texas Woman's University, Denton, TX | 2024
 
 ---
 
