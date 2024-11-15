@@ -1,6 +1,6 @@
 # My Resume
 
-<img width="178" alt="Screenshot 2024-11-15 at 2 35 57 PM" src="https://github.com/user-attachments/assets/5c3e77f6-0c75-409e-b870-14c0fa5afb4a">
+<p align="center"> <img width="178" alt="Screenshot 2024-11-15 at 2 35 57 PM" src="https://github.com/user-attachments/assets/5c3e77f6-0c75-409e-b870-14c0fa5afb4a">
 
 ## About Me
 👋 Hi, I'm Brianna Pettiford
