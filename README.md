@@ -11,8 +11,8 @@
 ## Contact Information
 📍 Location: [Dallas, Texas]  
 📧 Email: [bpettiford97@gmail.com]  
-🔗 LinkedIn: [Brianna Pettiford]([https://www.linkedin.com/in/brianna-pettiford-955b281a2/])  
-💻 GitHub: [bpettiford1]([https://github.com/bpettiford1])
+🔗 LinkedIn: [Brianna Pettiford](https://www.linkedin.com/in/brianna-pettiford-955b281a2/)  
+💻 GitHub: [bpettiford1](https://github.com/bpettiford1)
 
 ---
 
