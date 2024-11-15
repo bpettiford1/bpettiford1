@@ -1,7 +1,9 @@
 # My Resume
 
+<img width="178" alt="Screenshot 2024-11-15 at 2 35 57 PM" src="https://github.com/user-attachments/assets/5c3e77f6-0c75-409e-b870-14c0fa5afb4a">
+
 ## About Me
-👋 Hi, I'm Brianna Pettiford<img width="178" alt="Screenshot 2024-11-15 at 2 35 57 PM" src="https://github.com/user-attachments/assets/5c3e77f6-0c75-409e-b870-14c0fa5afb4a">
+👋 Hi, I'm Brianna Pettiford
 , a dynamic Recreation and Event Manager with a strong background in sports management, event coordination, and program development. I bring a results-driven approach to creating engaging experiences and managing successful programs. Recently, I’ve been exploring a transition into software engineering to expand my skill set and tackle new challenges.
 
 ---
